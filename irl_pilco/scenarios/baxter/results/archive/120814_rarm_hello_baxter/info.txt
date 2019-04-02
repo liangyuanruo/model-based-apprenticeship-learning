@@ -1,0 +1,9 @@
+Settings:
+
+H = 18	[s]
+f = 2	[Hz]
+ARM = ‘RIGHT’
+
+opt.length = 70 [Policy line searches]
+
+starting position is neutral().
